@@ -4,3 +4,4 @@ psutil
 aiohttp
 python-telegram-bot
 requests
+telethon
