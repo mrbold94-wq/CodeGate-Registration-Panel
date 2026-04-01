@@ -4,4 +4,4 @@ psutil
 aiohttp
 python-telegram-bot
 requests
-telethon
+telethon==1.36.0
