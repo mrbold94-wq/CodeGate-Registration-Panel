@@ -2,3 +2,4 @@ flask
 pillow
 psutil
 aiohttp
+python-telegram-bot
