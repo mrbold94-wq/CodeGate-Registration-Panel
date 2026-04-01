@@ -3,3 +3,4 @@ pillow
 psutil
 aiohttp
 python-telegram-bot
+requests
